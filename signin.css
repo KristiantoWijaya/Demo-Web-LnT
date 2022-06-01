@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.bg-kanan{
+    width: 50%;
+    background-color: #0054A5;
+    text-align: center;
+    height: 800px;
+    margin-left: 780px;
+}
+
+#gambar-1{
+    margin-top: 60px;
+}
+
+#gambar-2{
+    margin-top: 80px;
+}
+
+#tagline{
+    font-weight: 400;
+    color: white;
+    font-style: italic;
+    margin-top: 40px;
+    line-height: 36px;
+}
+
+.bg-kiri{
+    margin-top: -700px;
+    width: 50%;
+}
+
+#h1-regis{
+    font-size: 30px;
+    color: #0054A5;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+#regis-form{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+.form-regis{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+label{
+    font-weight: 700;
+    color: #0054A5;
+
+}
+
+.input-1{
+    width: 540px;
+    height: 30px;
+    border-radius: 100px;
+    padding-left: 10px;
+    border: solid 2px #0054A5;
+    margin-top: 7px;
+    margin-bottom: 20px;
+}
+
+
+.input-1::placeholder{
+    font-style: italic;
+    font-size: 15px;
+    color: black;
+    opacity: 0.5;
+}
+
+.input-2{
+    width: 540px;
+    height: 30px;
+    border-radius: 100px;
+    padding-left: 10px;
+    border: solid 2px #0054A5;
+    margin-top: 7px;
+    margin-bottom: 30px;
+}
+
+.btn-signup{
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 230px;
+    height: 20px;
+    background-color: #0054A5;
+    color: white;
+    border-radius: 100px;
+    margin-top: 50px;
+    font-weight: 700;
+}
+
+a::after{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: #0054A5;
+}
+
+    

@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #0054A5;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.bg-kanan{
+    width: 50%;
+    background-color: #0054A5;
+    text-align: center;
+    height: 800px;
+    margin-left: 780px;
+}
+
+#gambar-1{
+    margin-top: 60px;
+}
+
+#gambar-2{
+    margin-top: 80px;
+}
+
+#tagline{
+    font-weight: 400;
+    color: white;
+    font-style: italic;
+    margin-top: 40px;
+    line-height: 36px;
+}
+
+.bg-kiri{
+    margin-top: -700px;
+    width: 50%;
+
+}
+
+#h1-regis{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-left: 40px;
+    margin-top: 250px;
+}
+
+
+
+ 
